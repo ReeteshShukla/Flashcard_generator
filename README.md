@@ -2,7 +2,7 @@
 
 A Streamlit-powered app that converts educational content into intelligent, structured flashcards using LLMs (Groq + LLaMA 3). Supports PDF, TXT, and direct text input — perfect for students, educators, and learners!
 
-### Deployed URL: [Live on Stremlit cloud](https://flashcardgenerator-aycasvzbwgvhdcz9g3jmjj.streamlit.app/)
+### Deployed URL: [Live on Streamlit cloud](https://flashcardgenerator-aycasvzbwgvhdcz9g3jmjj.streamlit.app/)
 
 ---
 
